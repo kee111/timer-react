@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(157, 157, 157, 0.468);
+    width: 20%;
+    margin: 250px auto auto auto;
+    border-radius: 30px;
+}
